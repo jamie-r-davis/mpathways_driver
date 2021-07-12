@@ -9,5 +9,5 @@ setup(
     author="Jamie Davis",
     author_email="jamjam@umich.edu",
     description="A wrapper around Selenium to enable automation in MPathways.",
-    install_requires=["selenium==3.141.0", "urllib3==1.25.8"],
+    install_requires=["selenium==3.141.0", "urllib3==1.26.5"],
 )
